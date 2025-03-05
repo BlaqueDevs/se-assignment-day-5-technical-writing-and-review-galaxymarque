@@ -21,6 +21,29 @@ use plain language to explain technical terms clearly and concisely.One may also
 
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
+
+One can use :
+✓plain language-  Write in simple, straightforward language, avoiding complex technical terms and acronyms. 
+
+
+✓provide context and examples for technical concepts and use concrete examples to illustrate points. 
+
+✓incorporate clear headings and subheadings,
+
+✓use descriptive link text example if there is a link where does it lead to.
+
+ ✓visuals with alt text for images and graphics to explain their content to users with visual impairments
+
+✓ avoid jargon
+
+✓structure content logically with easy-to-follow steps.
+
+✓use of Visual aids -utilize diagrams, charts, and infographics to explain complex concepts visually. 
+
+✓use of formatting features such as bullet points and lists to break down information into manageable bullet points or numbered lists for easy scanning. 
+
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
