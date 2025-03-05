@@ -45,6 +45,12 @@ One can use :
 
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+
+
+-Technical topics can be challenging, and using complex language and can create barriers for readers.
+- Plain language breaks down these barriers, making it easier for readers to comprehend the content.
+- It also makes content more accessible for more people
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
