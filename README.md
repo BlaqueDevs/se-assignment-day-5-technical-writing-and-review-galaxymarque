@@ -14,14 +14,10 @@
 
   (ii)Observe reactions of the audience and ask for feedback from them including friends and colleagues.
 
-  (iv)Use surveys by using online tools to create and distribute a short questionnaire 
-Adapt your communication 
-Use concrete examples to illustrate points
-Use analogies to relate the unknown to the known
-Use plain language
-Explain technical terms clearly and concisely
-Use humor to connect with the audience
+  (iv)Use surveys by using online tools to create and distribute a short questionnaires , about background and families.
 
+  (v)Adapt your communication -use concrete examples to illustrate points,
+use plain language to explain technical terms clearly and concisely.One may also use humour to connect with audience.
 
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
