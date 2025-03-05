@@ -8,6 +8,22 @@
 
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+
+-One is able to gauge through the following:
+  (i) Asking questions to audience and if there is any need clarification.
+
+  (ii)Observe reactions of the audience and ask for feedback from them including friends and colleagues.
+
+  (iv)Use surveys by using online tools to create and distribute a short questionnaire 
+Adapt your communication 
+Use concrete examples to illustrate points
+Use analogies to relate the unknown to the known
+Use plain language
+Explain technical terms clearly and concisely
+Use humor to connect with the audience
+
+
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
