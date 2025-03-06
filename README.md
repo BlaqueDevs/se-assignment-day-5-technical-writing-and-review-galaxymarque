@@ -105,6 +105,10 @@ One can use :
 
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
+technical information depend on the type of data and the message a person wants to convey. Examples types of visuals include charts, graphs, tables, diagrams, and photographs. 
+
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
