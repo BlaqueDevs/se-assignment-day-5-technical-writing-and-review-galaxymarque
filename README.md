@@ -52,6 +52,35 @@ One can use :
 - It also makes content more accessible for more people
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+
+  -Simplifying terms makes the language more familiar and accessible. 
+ -Explanation 
+
+-Familiarity-using words that are commonly understood, like "start" instead of "initiate", can help make the meaning of a text more clear.
+
+-Accessibility-using more familiar words can make the text more accessible and easier to understand. For example, "end" is more straightforward than "terminate", 
+
+- comprehension-Using prior knowledge
+
+-Making predictions
+
+-Identifying the main idea
+
+-Asking questions
+
+-Making inferences
+
+-Visualizing
+
+-Using graphic organizers
+
+-Summarizing
+
+-Retelling
+
+-Paraphrasing or restating important sentences
+
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
