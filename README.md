@@ -174,3 +174,7 @@ Some of the ways are;
 - It may also feature sections on troubleshooting, frequently asked questions, and a changelog to track updates and fixes.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+-Using bold and bullet points is a great way to highlight the most important features and benefits of your product.
+
+- This makes it easier for customers to quickly understand what your product does and how it can benefit them.
